@@ -7,7 +7,7 @@ I'm a passionate Full-Stack MERN Developer with expertise in both web and cross-
 ## Tech Stack & Tools
 
 - Frontend: React.js, React Native, Redux, Tailwind CSS, GSAP, Framer Motion, Spline 3D  
-- Backend: Node.js, Express.js, REST APIs, Socket.io, WebRTC  
+- Backend: Node.js, Express.js, REST APIs, Socket.io, WebRTC along with strong security feature
 - Database: MongoDB, Mongoose  
 - DevOps & Tools: Git, GitHub, Postman, Firebase, Netlify, Vercel, Heroku, Docker  
 - Mobile: React Native CLI & Expo, Android Studio, iOS Simulator
